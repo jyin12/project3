@@ -1,0 +1,208 @@
+Thread 290 recorded this: 
+hi: Thread 290 recorded this: 
+Incorrect
+: Thread 290 recorded this: 
+hello: Thread 290 recorded this: 
+Incorrect
+: Thread 290 recorded this: 
+A: Thread 290 recorded this: 
+Incorrect
+: Thread 291 recorded this: 
+what: Thread 291 recorded this: 
+Incorrect
+: Thread 291 recorded this: 
+is: Thread 291 recorded this: 
+Incorrect
+: Thread 291 recorded this: 
+Goodbye!
+: Thread 290 recorded this: 
+Goodbye!
+: Thread 338 recorded this: 
+hi: Thread 338 recorded this: 
+Incorrect
+: Thread 338 recorded this: 
+Goodbye!
+: Thread 351 recorded this: 
+hi: Thread 351 recorded this: 
+Incorrect
+: Thread 351 recorded this: 
+Goodbye!
+: Thread 682 recorded this: 
+Hello: Thread 682 recorded this: 
+Incorrect
+: Thread 682 recorded this: 
+Abby: Thread 682 recorded this: 
+Incorrect
+: Thread 682 recorded this: 
+Goodbye!
+: Thread 805 recorded this: 
+Hello: Thread 805 recorded this: 
+Incorrect
+: Thread 805 recorded this: 
+ti: Thread 805 recorded this: 
+Incorrect
+: Thread 805 recorded this: 
+A: Thread 805 recorded this: 
+Incorrect
+: Thread 805 recorded this: 
+Goodbye!
+: Thread 824 recorded this: 
+Hello: Thread 824 recorded this: 
+Incorrect
+: Thread 824 recorded this: 
+Goodbye!
+: Thread 837 recorded this: 
+A: Thread 837 recorded this: 
+Incorrect
+: Thread 837 recorded this: 
+Hello: Thread 837 recorded this: 
+Incorrect
+: Thread 837 recorded this: 
+Goodbye!
+: Thread 868 recorded this: 
+Hello: Thread 868 recorded this: 
+Incorrect
+: Thread 868 recorded this: 
+Goodbye!
+: Thread 997 recorded this: 
+Hello: Thread 997 recorded this: 
+Incorrect
+: Thread 997 recorded this: 
+What: Thread 997 recorded this: 
+Incorrect
+: Thread 997 recorded this: 
+A: Thread 997 recorded this: 
+Incorrect
+: Thread 997 recorded this: 
+AB's: Thread 997 recorded this: 
+Incorrect
+: Thread 997 recorded this: 
+ÿôÿý: Thread 997 recorded this: 
+Incorrect
+: Thread 997 recorded this: 
+: Thread 997 recorded this: 
+Incorrect
+: Thread 997 recorded this: 
+Goodbye!
+: Thread 1010 recorded this: 
+What: Thread 1010 recorded this: 
+Incorrect
+: Thread 1010 recorded this: 
+Goodbye!
+: Thread 1024 recorded this: 
+Hello: Thread 1024 recorded this: 
+Incorrect
+: Thread 1024 recorded this: 
+Goodbye!
+: Thread 1037 recorded this: 
+Hello
+: Thread 1037 recorded this: 
+Incorrect
+: Thread 1037 recorded this: 
+World
+: Thread 1037 recorded this: 
+Incorrect
+: Thread 1037 recorded this: 
+ifoeif
+: Thread 1037 recorded this: 
+Incorrect
+: Thread 1037 recorded this: 
+Goodbye!
+: Thread 1050 recorded this: 
+Incorrect
+: Thread 1050 recorded this: 
+Goodbye!
+: Thread 1063 recorded this: 
+: Correct
+
+Thread 1063 recorded this: 
+A's: Correct
+
+Thread 1063 recorded this: 
+A's: Correct
+
+Thread 1063 recorded this: 
+Goodbye!
+: Thread 1076 recorded this: 
+Hello: Correct
+
+Thread 1076 recorded this: 
+ihioqc: Correct
+
+Thread 1076 recorded this: 
+fghjk: Correct
+
+Thread 1076 recorded this: 
+Goodbye!
+: Thread 1089 recorded this: 
+ibwqic
+: Correct
+
+Thread 1089 recorded this: 
+Goodbye!
+: Thread 1102 recorded this: 
+ibqncqeqev
+: Correct
+
+Thread 1102 recorded this: 
+Goodbye!
+: Thread 1133 recorded this: 
+gjmkl
+: Correct
+
+Thread 1133 recorded this: 
+pop
+: Correct
+
+Thread 1133 recorded this: 
+Goodbye!
+: Thread 1158 recorded this: 
+foiewjfoqjf
+: Correct
+
+Thread 1158 recorded this: 
+Goodbye!
+: Thread 1171 recorded this: 
+: Thread 1171 recorded this: 
+Incorrect
+: Thread 1171 recorded this: 
+: Thread 1171 recorded this: 
+Incorrect
+: Thread 1171 recorded this: 
+: Thread 1171 recorded this: 
+Incorrect
+: Thread 1171 recorded this: 
+: Thread 1171 recorded this: 
+Incorrect
+: Thread 1171 recorded this: 
+: Thread 1171 recorded this: 
+Incorrect
+: Thread 1185 recorded this: 
+Cherry: Correct
+
+Thread 1185 recorded this: 
+hieofq: Correct
+
+Thread 1185 recorded this: 
+^Z: Correct
+
+Thread 1234: 
+gih: Correct
+
+Thread 1234: 
+Goodbye!
+: Thread 1300: 
+hwqneqcq: Correct
+
+Thread 1300: 
+Cheerrry: Correct
+
+Thread 1300: 
+ÿôÿý: Correct
+
+Thread 1300: 
+: Correct
+
+Thread 1300: 
+Goodbye!
+: 
